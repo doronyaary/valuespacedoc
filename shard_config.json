@@ -1,0 +1,7 @@
+{
+  "host":"0.0.0.0",
+  "port":5051,
+  "datadir":"/data/",
+  "shardid":1,
+  "apitoken":"b73fe0bb-e406-4a7f-b33d-10624927f449"
+}
