@@ -1,0 +1,13 @@
+{
+  "host":"0.0.0.0",
+  "port":5051,
+  "apitoken":"b73fe0bb-e406-4a7f-b33d-10624927f449",
+  "writeaction":"one-only",
+  "shardfailaction":"continue",
+  "journaltype":"file",
+  "shards":[
+    {"host":"10.0.0.1","port":5051},
+    {"host":"10.0.0.2","port":5051},
+    {"host":"10.0.0.3","port":5051}
+  ]
+}
